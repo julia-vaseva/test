@@ -1,6 +1,6 @@
 ﻿namespace EmptyProject
 {
-    public class Latin
+    public class Latin1
     {
         
     }
