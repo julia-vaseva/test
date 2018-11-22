@@ -1,7 +1,10 @@
 ﻿namespace EmptyProject
 {
-    public class Latin1
+    public class Latin
     {
-        
+        public int ReturnOne()
+        {
+            return 1;
+        }
     }
 }
